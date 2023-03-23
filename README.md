@@ -71,7 +71,7 @@ We reserve the right to change this privacy policy at any time in the future. If
 
 If you have questions regarding this policy or how we handle the customers information, please contact us via [email](mailto:markus@fuchsteufels.de) or send a letter to the following address:
 
-fuchsteufels
-Adelberostraße 14
-36100 Petersberg
+fuchsteufels<br />
+Adelberostraße 14<br />
+36100 Petersberg<br />
 Germany
